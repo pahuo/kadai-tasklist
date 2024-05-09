@@ -22,4 +22,4 @@
         </script>
 
     </c:param>
-</c:import>html>
+</c:import>
